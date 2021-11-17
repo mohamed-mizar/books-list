@@ -1,0 +1,12 @@
+.books_image{
+  padding-left: 0;
+  padding-bottom: 15px;
+}
+
+.books_discription{
+  font-size: 15px;
+}
+
+.pagination {
+  justify-content: center;
+}
